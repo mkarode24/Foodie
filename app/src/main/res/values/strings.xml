@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Shruti</string>
+    <string-array name="restaurants">
+        <item>Delhi mess</item>
+        <item>MCdonald\'s</item>
+        <item>Delhi saaag </item>
+        <item>Mumbai Express</item>
+    </string-array>
+
+    <string-array name="option">
+        <item>MENU</item>
+        <item>Write a review </item>
+
+    </string-array>
+</resources>
